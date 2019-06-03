@@ -1,0 +1,2 @@
+# iptables.rules
+Some rules.
